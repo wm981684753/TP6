@@ -1,3 +1,16 @@
+## Main 2021.08.12
+当前库为填坑后的`多应用`TP6框架文件，当前框架及不包含vendor文件夹，使用时需线上获取
+
+> 已修复的问题
+* 多应用下多语言包的加载
+
+> 开始使用
+
+`git clone git@github.com:wm981684753/TP6.git` 克隆框架文件
+
+`composer install` 拉取composer扩展（必须）
+
+
 ThinkPHP 6.0
 ===============
 
