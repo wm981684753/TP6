@@ -20,6 +20,6 @@ class Index extends BaseController
     public function lang(Request $request)
     {
 //        echo $request->get('lang');
-        echo lang('Type error');;
+        echo lang('Type error');
     }
 }
