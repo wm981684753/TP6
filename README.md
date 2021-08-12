@@ -13,7 +13,7 @@
 > 框架更新
 
 当前框架将不定期同步官方最新代码--当前版本：6.0.9 更新时间：2021.08.12
-`composer update topthink/framework` 已有框架更新
+`composer update topthink/framework` 已有框架更新（**慎用**）
 
 
 ThinkPHP 6.0
