@@ -1,4 +1,4 @@
-## Main 2021.08.12
+## Main
 当前库为填坑后的`多应用`TP6框架文件，当前框架及不包含vendor文件夹，使用时需线上获取
 
 > 已修复的问题
@@ -9,6 +9,11 @@
 `git clone git@github.com:wm981684753/TP6.git` 克隆框架文件
 
 `composer install` 拉取composer扩展（必须）
+
+> 框架更新
+
+当前框架将不定期同步官方最新代码--当前版本：6.0.9 更新时间：2021.08.12
+`composer update topthink/framework` 已有框架更新
 
 
 ThinkPHP 6.0
