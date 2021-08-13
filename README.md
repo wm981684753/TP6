@@ -6,7 +6,7 @@
 
 > 开始使用
 
-`git clone git@github.com:wm981684753/TP6.git` 克隆框架文件
+`git clone git@github.com:wm981684753/TP6-multi.git` 克隆框架文件
 
 `composer install` 拉取composer扩展（**必须**）
 
